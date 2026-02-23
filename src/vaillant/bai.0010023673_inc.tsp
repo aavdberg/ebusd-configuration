@@ -104,19 +104,13 @@ namespace Bai._0010023673_inc {
     value: HEX;
 
     /** Current Power Raw Value */
-    currentpowerraw: {
-      value: FLOAT; // Store as float
-    };
+    currentpowerraw: HEX;
 
     /** Max Power Raw Value */
-    maxpowerraw: {
-      value: FLOAT; // Store as float
-    };
+    maxpowerraw: HEX;
 
     /** Limit Power Raw Value */
-    limitpowerraw: {
-      value: FLOAT; // Store as float
-    };
+    limitpowerraw: HEX;
   }
   
   /** Statenumber_DK: status number */
