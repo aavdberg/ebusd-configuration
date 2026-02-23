@@ -6,7 +6,7 @@ using Ebus.Dtm;
 using Ebus.Str;
 namespace Vaillant;
 
-namespace Bai._308523_inc {
+namespace Bai._0010023673_inc {
   // ,BAI00,ecoTEC,308523 174
   // ##### dia level 1 #####
 
