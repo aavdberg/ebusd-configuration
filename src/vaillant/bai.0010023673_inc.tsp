@@ -7,7 +7,7 @@ using Ebus.Str;
 namespace Vaillant;
 
 namespace Bai._0010023673_inc {
-  // ,BAI00,ecoTEC,308523 174
+  // ,BAI00,Protherm Ray 14 KE/14 EU,0010023673
   // ##### dia level 1 #####
 
 
